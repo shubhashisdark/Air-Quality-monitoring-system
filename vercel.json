@@ -13,7 +13,6 @@
       "dest": "/index.html"
     }
   ],
-  "framework": "vite",
   "env": {
     "VITE_APP_TITLE": "Air Quality Monitoring Dashboard",
     "VITE_REFRESH_INTERVAL": "10000"
